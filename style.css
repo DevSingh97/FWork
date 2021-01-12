@@ -2635,5 +2635,16 @@ footer {
         background-color: rgb(255, 104, 104);
         box-shadow: 0px 5px 30px rgb(255, 104, 104);
     }
+    
+    
+    #fnavbtn{
+        outline-style: none;
+        background-color: #289976;
+        padding: 15px;
+        color: #fff;
+        border-radius: 100px;
+        border: none;
+        margin-top: 15px;
+    }
 
 }
